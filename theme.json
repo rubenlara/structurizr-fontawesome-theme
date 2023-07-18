@@ -3,6 +3,14 @@
  "description": "This theme includes icons for each of the FontAwesome Free icons, based upon the FontAwesome Icons Set (https://github.com/FortAwesome/Font-Awesome).",
  "elements": [
   {
+   "tag": "Spring Boot",
+   "icon": "https://img.icons8.com/color/48/spring-logo.png"
+  },
+  {
+   "tag": "MongoDB",
+   "icon": "https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png"
+  },
+  {
    "tag": "FontAwesome - brands-42-group",
    "icon": "https://raw.githubusercontent.com/J-Cat/structurizr-fontawesome-theme/master/fontawesome/brands/42-group.svg"
   },
